@@ -1,27 +1,67 @@
-# ProjQuizFrances
+[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+[ANGULAR]: https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
+<h1 align="center" style="font-weight: bold;">Application De Quizz En Ligne</h1>
 
-## Development server
+![javascript][JAVASCRIPT__BADGE]
+![angular][ANGULAR]
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HigorZicaDev/portfolio-app/main/static/projetos/quizSiteApp1.png" alt="Image Example" width="400px">
+</p>
 
-## Code scaffolding
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HigorZicaDev/portfolio-app/main/static/projetos/quizSiteApp2.png" alt="Image Example" width="400px">
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HigorZicaDev/portfolio-app/main/static/projetos/quizSiteApp3.png" alt="Image Example" width="400px">
+</p>
 
-## Build
+<h2 id="started">📌 About</h2>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This project is a quiz app, used to help students study French in an easy and simple way.
 
-## Running unit tests
+<h2 id="started">🚀 Getting started</h2>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Here you describe how to run your project locally
 
-## Running end-to-end tests
+<h3>Prerequisites</h3>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Here you list all prerequisites necessary for running your project. For example:
 
-## Further help
+- [ANGULAR](https://angular.io/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h2 id="routes">📍 Application Routes</h2>
+
+This project is landing page for teacher france.
+
+<h2 id="colab">🤝 Creator</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/165382509?v=4" width="100px;" alt="Higor Zica Profile Picture"/><br>
+        <sub>
+          <b>Higor Zica</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h2 id="contribute">📫 Contribute</h2>
+
+Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
+
+1. `git clone https://github.com/HigorZicaDev/text-editor.git`
+2. `git checkout -b feature/NAME`
+3. Follow commit patterns
+4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+
+<h3>Documentations that might help</h3>
+
+[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
+
+[💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
